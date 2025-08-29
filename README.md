@@ -16,3 +16,5 @@ Run these commands:
 Run the docker compose
 
 Add deployment for freestyle
+
+Add again
