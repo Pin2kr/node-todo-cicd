@@ -18,3 +18,4 @@ Run the docker compose
 Add deployment for freestyle
 
 Add again
+Again update it
