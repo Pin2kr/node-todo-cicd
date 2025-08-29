@@ -19,3 +19,4 @@ Add deployment for freestyle
 
 finally solve the problem
 Pipeline is already design
+Add another line in pipeline
