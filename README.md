@@ -18,4 +18,4 @@ Run the docker compose
 Add deployment for freestyle
 
 solve the bug of port
-
+solve the problem of the security group
