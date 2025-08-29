@@ -23,3 +23,5 @@ Add another line in pipeline
 
 Finally did it
 why webhook is not working why
+
+add git command on the pipeline
