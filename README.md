@@ -18,3 +18,4 @@ Run the docker compose
 Add deployment for freestyle
 
 solve the deployment issue
+fix the bug
