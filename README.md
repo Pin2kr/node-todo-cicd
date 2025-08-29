@@ -17,5 +17,5 @@ Run the docker compose
 
 Add deployment for freestyle
 
-Automatically deployment
+solve the bug of port
 
