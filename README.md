@@ -17,11 +17,4 @@ Run the docker compose
 
 Add deployment for freestyle
 
-finally solve the problem
-Pipeline is already design
-Add another line in pipeline
-
-Finally did it
-why webhook is not working why
-
-add git command on the pipeline
+pipeline done
