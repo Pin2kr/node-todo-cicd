@@ -18,3 +18,4 @@ Run the docker compose
 Add deployment for freestyle
 
 finally solve the problem
+Pipeline is already design
