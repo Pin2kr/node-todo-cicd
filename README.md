@@ -13,8 +13,4 @@ Run these commands:
 
 `node app.js`
 
-Run the docker compose
-
-Add deployment for freestyle
-
-pipeline done
+webhook setup
